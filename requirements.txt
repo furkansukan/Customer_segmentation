@@ -6,3 +6,5 @@ streamlit
 scikit-learn
 plotly
 yellowbrick
+python_version
+wheel
