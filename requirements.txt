@@ -8,3 +8,4 @@ plotly
 yellowbrick
 python_version
 wheel
+setuptools
