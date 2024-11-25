@@ -51,9 +51,9 @@ Bu proje, şirketlerin veya bireylerin müşteri verilerini analiz ederek müşt
 ##### **İletişim**
 Herhangi bir sorunuz veya geri bildiriminiz için aşağıdaki kanallardan ulaşabilirsiniz:
 - **Email:** [furkansukan10@gmail.com](furkansukan10@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/furkansukan/))
-- **Kaggle:** [Your Kaggle Profile]([https://www.kaggle.com](https://www.kaggle.com/furkansukan))
-- **Website:** [Project Website]([https://www.examplesite.com](https://customersegmentation-furkansukan.streamlit.app/))
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/furkansukan/)
+- **Kaggle:** [Kaggle Profile](https://www.kaggle.com/furkansukan)
+- **Website:** [Project Website](https://customersegmentation-furkansukan.streamlit.app/)
 
 ---
 
@@ -104,8 +104,8 @@ This project enables companies or individuals to analyze customer data and predi
 ##### **Contact**
 Feel free to reach out for questions or feedback via:
 - **Email:** [furkansukan10@gmail.com](furkansukan10@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/furkansukan/))
-- **Kaggle:** [Your Kaggle Profile]([https://www.kaggle.com](https://www.kaggle.com/furkansukan))
-- **Website:** [Project Website]([https://www.examplesite.com](https://customersegmentation-furkansukan.streamlit.app/))
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/furkansukan/)
+- **Kaggle:** [Kaggle Profile](https://www.kaggle.com/furkansukan)
+- **Website:** [Project Website](https://customersegmentation-furkansukan.streamlit.app/)
 
 --- 
